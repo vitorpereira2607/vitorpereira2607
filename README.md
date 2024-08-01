@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @vitorpereira2607
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 About Me:
+👋 Hello! I'm Vitor
 
-<!---
-vitorpereira2607/vitorpereira2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials:
+ 
+💻 Tech Stack:
+Languages:
+JavaScript HTML5 CSS3
+
+Frameworks and Runtimes:
+Next.js React Node.js Express Fastify Tailwind CSS
+
+Databases:
+SQL noSQL PostgreSQL MySQL MariaDB
