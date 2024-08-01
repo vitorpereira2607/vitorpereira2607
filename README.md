@@ -1,6 +1,8 @@
 # 👨‍💻 About Me:
 
-👋 Hello! I'm Vitor
+👋 Hi, I'm Vitor 
+
+I'm currently expanding my skill set in React by developing projects using Next.js. For Back-End development, I've worked with Express (Node.js) using MongoDB and MariaDB/MySQL, as well as Fastify with PostgreSQL. These projects have given me a good perspective on web development, and I'm willing to continue learning and growing in this field.
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/vitorpereira267/" target="_blank">
