@@ -37,5 +37,5 @@ I'm currently expanding my skill set in React by developing projects using Next.
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 # 📊 GitHub Stats:
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorpereira267&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira267&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=vitorpereira2607&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira2607&layout=compact&theme=radical)
