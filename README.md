@@ -35,3 +35,7 @@ I'm currently expanding my skill set in React by developing projects using Next.
 ### Cloud Services:
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+# 📊 GitHub Stats:
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorpereira267&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira267&layout=compact&theme=radical)
