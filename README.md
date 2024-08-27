@@ -6,11 +6,6 @@ I'm currently expanding my skill set in React by developing projects using Next.
 
 💡 I'm currently developing [**ChatApp**](https://github.com/vitorpereira2607/chatapp), a MERN stack application that allows users to chat with others in real-time. 
 
-# 🌐 Socials:
-<a href="https://www.linkedin.com/in/vitorpereira267/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px;">
-</a>
-
 # 💻 Tech Stack:
 
 ### Languages
