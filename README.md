@@ -4,6 +4,8 @@
 
 I'm currently expanding my skill set in React by developing projects using Next.js. For Back-End development, I've worked with Express (Node.js) using MongoDB and MariaDB/MySQL, as well as Fastify with PostgreSQL. These projects have given me a good perspective on web development, and I'm willing to continue learning and growing in this field.
 
+💡 I'm currently developing [**ChatApp**](https://github.com/vitorpereira2607/chatapp), a MERN stack application that allows users to chat with others in real-time. 
+
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/vitorpereira267/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 28px;">
