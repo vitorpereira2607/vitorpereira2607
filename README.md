@@ -40,6 +40,10 @@ I'm currently expanding my skill set in React by developing projects using Next.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### Cloud Services
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/-Cloudflare%20R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vitorpereira2607&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vitorpereira2607&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)<br/>
