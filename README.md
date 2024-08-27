@@ -47,4 +47,8 @@ I'm currently expanding my skill set in React by developing projects using Next.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vitorpereira2607&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vitorpereira2607&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500" />
+</div>
+
+
