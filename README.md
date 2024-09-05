@@ -32,7 +32,6 @@
 
 <p style="font-size: 14px;">📊 GitHub Stats:</p>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorpereira2607&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpereira2607&theme=dark&hide_border=false&border_color=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" style="width: 34%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500" style="width: 24%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorpereira2607&show_icons=true&theme=dark&border_color=FFA500&icon_color=FFA500&title_color=FFA500" style="width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpereira2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_color=FFA500&title_color=FFA500" style="width: 30%;">
 </div>
