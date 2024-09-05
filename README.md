@@ -1,8 +1,4 @@
-# 👨‍💻 About Me:
-
-👋 Hi, I'm Vitor 
-
-💡 I'm currently developing [**ChatApp**](https://github.com/vitorpereira2607/chatapp), a MERN stack application that allows users to chat with others in real-time. 
+💡 Currently developing [**ChatApp**](https://github.com/vitorpereira2607/chatapp), a MERN stack application that allows users to chat with others in real-time. 
 
 # 💻 Tech Stack:
 
