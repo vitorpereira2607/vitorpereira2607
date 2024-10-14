@@ -1,5 +1,3 @@
-<p style="font-size: 14px;">💡 Currently developing <a href="https://github.com/vitorpereira2607/chatapp"><strong>ChatApp</strong></a>, a MERN stack application that allows users to chat with others in real-time.</p>
-
 <p style="font-size: 14px;">💻 Tech Stack:</p>
 
 <p style="font-size: 12px;">Languages<br>
